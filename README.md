@@ -61,4 +61,3 @@ npx serve .
 ## Créditos
 
 Desenvolvido por Valter Goes.
->>>>>>> 414b730 (docs: documentar estrutura e configuração da landing page)
