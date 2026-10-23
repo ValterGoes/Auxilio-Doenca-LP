@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-
-=======
 # Auxílio-Doença — Maragonesa Silveira Advocacia
 
 Landing page institucional focada em auxílio-doença (auxílio por incapacidade temporária — benefício do INSS), desenvolvida para captação de leads via Google Ads e WhatsApp para o escritório Maragonesa Silveira Advocacia & Consultoria.
