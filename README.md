@@ -45,24 +45,7 @@ A LP é uma página única com foco em conversão, com seções para:
 
 Abra o arquivo `index.html` diretamente no navegador ou rode um servidor estático:
 
-```bash
-cd "/Volumes/Macintosh HD - Dados/MARAGONESA-SILVEIRA-ADV/Auxilio-Doenca-LP"
-python3 -m http.server 8000
-```
 
-Depois acesse:
-
-```bash
-http://localhost:8000/
-```
-
-## Checklist antes de subir no Hostinger
-
-- Confirmar o domínio final
-- Ajustar o canonical e Open Graph para o domínio definitivo
-- Validar se o Google Tag Manager está correto
-- Substituir a imagem de compartilhamento caso tenha uma versão final mais adequada
-- Fazer upload da pasta inteira para a raiz do site do Hostinger
 
 ## Observações
 
